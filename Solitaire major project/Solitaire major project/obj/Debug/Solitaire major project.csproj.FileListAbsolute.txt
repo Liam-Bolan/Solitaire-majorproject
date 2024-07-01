@@ -1,0 +1,11 @@
+H:\Visual studio stuff\Solitaire major project\Solitaire major project\bin\Debug\Solitaire major project.exe
+H:\Visual studio stuff\Solitaire major project\Solitaire major project\bin\Debug\Solitaire major project.exe.config
+H:\Visual studio stuff\Solitaire major project\Solitaire major project\obj\Debug\Solitaire_major_project.Form1.resources
+H:\Visual studio stuff\Solitaire major project\Solitaire major project\obj\Debug\Solitaire_major_project.Properties.Resources.resources
+H:\Visual studio stuff\Solitaire major project\Solitaire major project\obj\Debug\Solitaire_major_project.SolitaireGame.resources
+H:\Visual studio stuff\Solitaire major project\Solitaire major project\obj\Debug\Solitaire major project.csproj.GenerateResource.cache
+H:\Visual studio stuff\Solitaire major project\Solitaire major project\obj\Debug\Solitaire major project.csproj.CoreCompileInputs.cache
+H:\Visual studio stuff\Solitaire major project\Solitaire major project\obj\Debug\Solitaire major project.exe
+H:\Visual studio stuff\Solitaire major project\Solitaire major project\obj\Debug\Solitaire major project.pdb
+H:\Visual studio stuff\Solitaire major project\Solitaire major project\bin\Debug\Solitaire major project.pdb
+H:\Visual studio stuff\Solitaire major project\Solitaire major project\obj\Debug\Solitaire major project.csprojAssemblyReference.cache
